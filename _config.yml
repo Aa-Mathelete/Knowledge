@@ -1,8 +1,8 @@
 title: NoteTheme
 description: You cannot remember everything.
-baseurl: "/notetheme"
+baseurl: "/Knowledge"
 url: ""
-repository: dinhanhthi/notetheme
+repository: Aa-Mathelete/Knowledge
 paginate: 28
 
 banner: "/assets/res/banner.png" # site banner (load when someone share your page url)
@@ -10,11 +10,11 @@ favicon: "/assets/res/favicon.png" # site's favicon (icon left side of your page
 
 # MatJek specific configurations
 user: 
-  name: "Math2IT"
-  email: "dinhanhthimail@gmail.com"
+  name: "Aarushi"
+  email: "username@gmail.com"
   website: "math2it.com"
   avatar: "/assets/res/user.png"
-  github: "dinhanhthi"
+  github: "Aa-Mathelete"
 google_tracking_id: ""
 google_site_verification: ""
 disqus_shortname: this-site
