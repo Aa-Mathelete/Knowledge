@@ -14,13 +14,13 @@ Hi! In this post I'm going to cover: what FOIL is in math, how to apply it,some 
 ## What does FOIL stand for?
 Foil stands for:
 
-	**F**irst
+ **F**irst
 
-	**O**uter
+ **O**uter
 
-	**I**nner
+ **I**nner
 
-	**L**ast
+ **L**ast
 
 
 Ok, so this sequence is **essential** to **multiplying binomials** correctly. Now that you know what FOIL stands for let's figure out how to use it!
