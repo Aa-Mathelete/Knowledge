@@ -1,5 +1,5 @@
 ---
-title: How to install notetheme
+title: How To Use FOIL
 categories: notetheme
 tags: [Algebra]
 maths: 1
@@ -12,8 +12,7 @@ In this tutorial, I suppose that you are new to [Github Pages](https://pages.git
 
 {% include toc.html %}
 
-## How to use F.O.I.L. When Multiplying Binomials
-
+## What does FOIL stand for?
 In the case you don't have any Github Page, follow following rules, otherwise please step to next steps. **For Vietnameses**, please read [this article](https://math2it.com/tao-mot-trang-web-jekyll-tren-localhost/).
 1. [Create](https://github.com/join?source=header-home) a Github account, don't forget to verify your email before loging in. I suppose that you signed up with name `dinhanhthi`.
 2. Login to your Github account.
