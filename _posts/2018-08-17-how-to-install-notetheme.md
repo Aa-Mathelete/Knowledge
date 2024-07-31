@@ -14,13 +14,13 @@ Hi! In this post I'm going to cover: what FOIL is in math, how to apply it,some 
 ## What does FOIL stand for?
 Foil stands for:
 
-- **F**irst
+	**F**irst
 
-- **O**uter
+	**O**uter
 
-- **I**nner
+	**I**nner
 
-- **L**ast
+	**L**ast
 
 
 1. [Create](https://github.com/join?source=header-home) a Github account, don't forget to verify your email before loging in. I suppose that you signed up with name `dinhanhthi`.
