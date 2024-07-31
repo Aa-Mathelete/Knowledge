@@ -1,18 +1,25 @@
 ---
 title: How To Use FOIL
-categories: ❤️‍🔥Algebra
+categories: Algebra 1
 tags: [Algebra, MAth]
 maths: 1
 comment: 1
 ---
-Hi! In this post I'm going to discuss what FOIL is in math! For practice, I suggest going to [Khanacademy](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/e/multiply-binomials-coefficient) 🤓 Have fun!
+Hi! In this post I'm going to cover: what FOIL is in math, how to apply it,some exampes, and tips! 🤓 Have fun!
 
 {% include tip.html content="If you have any questions or comments please write them down below!" %}
 
 {% include toc.html %}
-
+ 
 ## What does FOIL stand for?
-In the case you don't have any Github Page, follow following rules, otherwise please step to next steps. **For Vietnameses**, please read [this article](https://math2it.com/tao-mot-trang-web-jekyll-tren-localhost/).
+Foil stands for:
+
+**F**irst
+**O**uter
+**I**nner
+**L**ast
+
+
 1. [Create](https://github.com/join?source=header-home) a Github account, don't forget to verify your email before loging in. I suppose that you signed up with name `dinhanhthi`.
 2. Login to your Github account.
 3. Create a new repository by clicking **New** on the right side of *Repositories* section and naming your repo with `<your-account>.github.io`. For example, my Github account is "*dinhanhthi*", so I name this repo "*dinhanhthi.github.io*". We need to name the repo like this because your website will have an address like **https://\<your-account\>.github.io**.
