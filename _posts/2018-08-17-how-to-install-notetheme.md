@@ -1,11 +1,11 @@
 ---
 title: How To Use FOIL
-categories: notetheme
+categories: ❤️‍🔥Algebra
 tags: [Algebra, MAth]
 maths: 1
 comment: 1
 ---
-Hi! In this post I'm going to discuss what FOIL is in math! For practice I suggest going to [Khanacademy](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/e/multiply-binomials-coefficient) 🤓 Have fun!
+Hi! In this post I'm going to discuss what FOIL is in math! For practice, I suggest going to [Khanacademy](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/e/multiply-binomials-coefficient) 🤓 Have fun!
 
 {% include tip.html content="If you have any questions or comments please write them down below!" %}
 
