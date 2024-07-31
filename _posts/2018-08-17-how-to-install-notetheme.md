@@ -15,8 +15,11 @@ Hi! In this post I'm going to cover: what FOIL is in math, how to apply it,some 
 Foil stands for:
 
 - **F**irst
+
 - **O**uter
+
 - **I**nner
+
 - **L**ast
 
 
