@@ -6,7 +6,7 @@ maths: 1
 comment: 1
 ---
 
-In this tutorial, I suppose that you are new to [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/), just follow the ones you need and don't forget to leave a comment below.
+Hi! In this post I'm going to discuss what FOIL is in math! For practice I suggest going to [Khanacademy](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/e/multiply-binomials-coefficient) 🤓 Have fun!
 
 {% include tip.html content="If you have any questions or comments please write them down below!" %}
 
