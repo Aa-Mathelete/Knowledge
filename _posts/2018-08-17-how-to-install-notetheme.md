@@ -23,22 +23,13 @@ Foil stands for:
 	**L**ast
 
 
-1. [Create](https://github.com/join?source=header-home) a Github account, don't forget to verify your email before loging in. I suppose that you signed up with name `dinhanhthi`.
-2. Login to your Github account.
-3. Create a new repository by clicking **New** on the right side of *Repositories* section and naming your repo with `<your-account>.github.io`. For example, my Github account is "*dinhanhthi*", so I name this repo "*dinhanhthi.github.io*". We need to name the repo like this because your website will have an address like **https://\<your-account\>.github.io**.
-4. Basically, you now have a place where you can put your website, you can choose either a built-in theme from Github or an external theme. 
-	- If you wanna apply **[notetheme](https://github.com/dinhanhthi/notetheme)** (or [other external theme](http://jekyllthemes.org/)), please step to next section ([How to apply notetheme](#how-to-apply-notetheme)) and ignore following steps in this section.
-	- If you wanna create immediately a buit-in theme from Github, please continue to step 5.
-5. On your repo on github, click on tab **Settings**, on the left hand side, choose tab **Options** (default) and then go to section **Github Pages**, click on **Choose a theme**.
-6. Choose a theme you like and then click on **Select theme**
-7. A new page appears, write something on **Commit changes** and then click on **Commit changes**.
-8. Done, now you have a page, check it out at **https://\<your-account\>.github.io**
+Ok, so this sequence is **essential** to **multiplying binomials** correctly. Now that you know what FOIL stands for let's figure out how to use it!
 
-{% include tip.html content="Don't worry if you followed step 5-8 and you wanna apply other themes, just keep going to next section." %}
+{% include tip.html content=" Reminder: FOIL is used for multiplying binomials, not dividing, adding, or subtracting!" %}
 
 
 
-## How to apply notetheme?
+## Applying FOIL 
 
 1. Download and install **[Github Client](https://desktop.github.com/)** (GC). GC helps you "upload" changes from local host (on your own computer) to your remote (on Github server).
 2. Login to GC with the account created in step 1.
@@ -66,10 +57,5 @@ Foil stands for:
 10. All done! Go to **https://\<your-account\>.github.io** to see the changes, you may wait a little minutes to get the changes.
 
 
-## Get some errors?
-
-- If you have some unexpected errors, please tell me on the comment section below.
-- If you wanna config more on this theme, please read [How to use notetheme]({{ site.baseurl }}/how-to-use-notetheme).
-- If you find something wrong on this post, please tell me to fix them. 
-
-Thank you and good luck.
+## Examples of Foil
+## Tips/Extra Help
