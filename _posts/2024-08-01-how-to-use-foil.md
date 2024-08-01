@@ -66,6 +66,3 @@ there you will find extra practice and videos. Additionaly, I suggest studying w
 
 Thanks, and keep on learning!
     ~Aarushi D.
----
-    {% include tip.html content=" Feel Free to comment if you have any questions!" %}
----
