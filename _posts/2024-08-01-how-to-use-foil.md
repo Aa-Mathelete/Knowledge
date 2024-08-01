@@ -61,5 +61,3 @@ Thanks, and keep on learning!
     Aarushi
 
     {% include tip.html content=" Feel Free to comment if you have any questions!" %}
-
-{% include toc.html %}
