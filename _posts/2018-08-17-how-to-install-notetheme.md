@@ -34,7 +34,7 @@ Ok, so this sequence is **essential** to **multiplying binomials** correctly. No
 <img src="https://study.com/cimages/multimages/16/foil.png" alt="Foil Image">
 
 Based on the image above, you should get an idea of what applying foil looks like. 
-    **First** we multiply the first two terms. Next, we multiply the terms near the **outside** of the parathesis.Next, we multiply the two terms in the middle, or the **inside**. Finally, we multiply the **last** two terms. A trick to remember this is by thinking of multiplying binomials as a jelly filled donut. 
+    **First** we multiply the first two terms.  Next, we multiply the terms near the **outside** of the parathesis.Next, we multiply the two terms in the middle, or the **inside**. Finally, we multiply the **last** two terms. A trick to remember this is by thinking of multiplying binomials as a jelly filled donut. 
     Think about it!
 <img src="https://www.tastingtable.com/img/gallery/strawberry-jam-doughnut-recipe-donut/image-import.jpg" alt="Jelly Filled Donut">
 
