@@ -55,9 +55,18 @@ Here is another question:<img src="images/posts/maths/FoilQ2.png" alt="FOIL Ques
 Here is the solution:<img src="images/posts/maths/Foila2.png" alt="FOIL Answer 2">
 
 ---
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+<div class="collapsible-header" markdown="1"><i class="material-icons">face</i>
 Watch this video for more practice:
 
+</div>
+<div class="collapsible-body" markdown="1">
 {% include youtube.html content="nyk3UGwCAms" size="5" %}
+</div>
+</li>
+</ul>
+
 ---
 ## Tips/Extra Help
 For practicing FOIL I suggest going to 
