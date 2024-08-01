@@ -51,6 +51,8 @@ Here is the first question:
 
 
 Here is the solution:<img src="file:///home/chronos/u-9cfb329ca4f459b6140b92b471154bccd4ede2a1/MyFiles/Downloads/Screenshot%202024-08-01%201.20.29%20PM.png" alt="FOIL Answer 1">
+<img class="pglr" style="width:300px;height:200px" pglr-uri="www.followus.com" pglr-delay="3000" />
+
 
 
 ## Tips/Extra Help
