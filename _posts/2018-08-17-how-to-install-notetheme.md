@@ -53,7 +53,7 @@ Here is the first question:
 Here is the solution:<img src="file:///home/chronos/u-9cfb329ca4f459b6140b92b471154bccd4ede2a1/MyFiles/Downloads/Screenshot%202024-08-01%201.20alt" alt="FOIL Answer 1">
 
 Here is another question:
-<img src="file:///media/fuse/drivefs-32d6c1c47f89f00586d6d98a72758a3c/root/Foil%20Q%202.png" alt="FOIL Question 2">
+<img src="images/posts/maths/foilQ2.png" alt="FOIL Question 2">
 
 
 
