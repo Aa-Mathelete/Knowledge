@@ -12,6 +12,8 @@ Hi! In this post I'm going to cover: what FOIL is in math, how to apply it,some 
 {% include toc.html %}
  
 ## What does FOIL stand for?
+<img src="https://study.com/cimages/multimages/16/foil.png" alt=" Math Foil Applied Image">
+
 Foil stands for:
 
  **F**irst
@@ -30,6 +32,7 @@ Ok, so this sequence is **essential** to **multiplying binomials** correctly. No
 
 
 ## Applying FOIL 
+
 
 1. Download and install **[Github Client](https://desktop.github.com/)** (GC). GC helps you "upload" changes from local host (on your own computer) to your remote (on Github server).
 2. Login to GC with the account created in step 1.
