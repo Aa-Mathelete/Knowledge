@@ -54,10 +54,11 @@ Here is another question:<img src="images/posts/maths/FoilQ2.png" alt="FOIL Ques
 
 Here is the solution:<img src="images/posts/maths/Foila2.png" alt="FOIL Answer 2">
 
+---
 Watch this video for more practice:
 
 {% include youtube.html content="nyk3UGwCAms" size="5" %}
-
+---
 ## Tips/Extra Help
 For practicing FOIL I suggest going to 
 <a href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/e/multiply-binomials-coefficient" target="_blank">Khanacademy</a>
