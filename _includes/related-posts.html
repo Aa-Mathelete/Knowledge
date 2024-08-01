@@ -23,8 +23,8 @@
 </style>
 
 <div class="related-posts">
-  <i class="material-icons thi-icon">grade</i><span>Related:</span>
-
+  <i class="material-icons thi-icon">grade</i><span>Related?</span>
+  {% assign RELATED_POSTS_THRESHOLD = 4 %}
   <ul>
     {% assign related_post_count = 0 %}
     {% for post in site.related_posts %}
