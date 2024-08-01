@@ -31,5 +31,6 @@ Ok, so this sequence is **essential** to **multiplying binomials** correctly. No
 
 ## Applying FOIL 
 <img src="https://study.com/cimages/multimages/16/foil.png" alt="Foil Image">
+
 ## Examples of Foil
 ## Tips/Extra Help
