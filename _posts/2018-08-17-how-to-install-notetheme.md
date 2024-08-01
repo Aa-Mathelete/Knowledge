@@ -43,4 +43,6 @@ Based on the image above, you should get an idea of what applying foil looks lik
 {% include toc.html %}
 
 ## Examples of Foil
+Below, I'm going to solve some FOIL problem; I suggest you solving them first, and then check your work with mine!
+
 ## Tips/Extra Help
