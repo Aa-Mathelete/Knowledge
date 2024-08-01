@@ -52,5 +52,5 @@ Here is the solution:<img src="images/posts/maths/math.png" alt="FOIL Answer 1">
 
 Here is another question:<img src="images/posts/maths/FoilQ2.png" alt="FOIL Question 2">
 
-Here is the solution:<img src="images/posts/maths/FoilA2.png" alt="FOIL Answer 2">
+Here is the solution:<img src="images/posts/maths/Foila2.png" alt="FOIL Answer 2">
 ## Tips/Extra Help
