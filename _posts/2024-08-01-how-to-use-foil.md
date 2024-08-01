@@ -54,3 +54,4 @@ Here is another question:<img src="images/posts/maths/FoilQ2.png" alt="FOIL Ques
 
 Here is the solution:<img src="images/posts/maths/Foila2.png" alt="FOIL Answer 2">
 ## Tips/Extra Help
+For practicing FOIL I suggest going to [Khanacademy] https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/e/multiply-binomials-coefficient
