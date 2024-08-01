@@ -25,8 +25,10 @@ Foil stands for:
 
 
 Ok, so this sequence is **essential** to **multiplying binomials** correctly. Now that you know what FOIL stands for let's figure out how to use it!
-{% include tip.html content=" Remember, **Foil is used for multiplying binomials only!**" %}
+{% include tip.html content=" Reminder: FOIL is used for multiplying binomials, not dividing, adding, or subtracting!" %}
 
+{% include toc.html %}
+ 
 
 ## Applying FOIL 
 <img src="https://study.com/cimages/multimages/16/foil.png" alt="Foil Image">
