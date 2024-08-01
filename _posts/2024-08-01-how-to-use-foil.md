@@ -56,7 +56,7 @@ Here is the solution:<img src="images/posts/maths/Foila2.png" alt="FOIL Answer 2
 ## Tips/Extra Help
 For practicing FOIL I suggest going to 
 <a href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/e/multiply-binomials-coefficient" target="_blank">Khanacademy</a>
-there you will find extra practice and videos. Additionaly, I suggest studying with<a href="https://www.youtube.com/@TheOrganicChemistryTutor/search?query=Multiplying%20Binomials" target="_blank">The Organic Chemistry Teacher!</a> 
+there you will find extra practice and videos. Additionaly, I suggest studying with <a href="https://www.youtube.com/@TheOrganicChemistryTutor/search?query=Multiplying%20Binomials" target="_blank">The Organic Chemistry Teacher!</a> 
 Thanks, and keep on learning!
     ~Aarushi D.
 
