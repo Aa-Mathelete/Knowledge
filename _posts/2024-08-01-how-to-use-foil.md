@@ -1,7 +1,7 @@
 ---
 title: How To Use FOIL
 categories: Algebra 1
-tags: [Algebra, MAth]
+tags: [Algebra, Math]
 maths: 1
 comment: 1
 ---
