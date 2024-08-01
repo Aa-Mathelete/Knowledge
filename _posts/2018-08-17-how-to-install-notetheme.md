@@ -12,7 +12,7 @@ Hi! In this post I'm going to cover: what FOIL is in math, how to apply it,some 
 {% include toc.html %}
  
 ## What does FOIL stand for?
-<img src="https://study.com/cimages/multimages/16/foil.png" alt=" Math Foil Applied Image">
+<img src="https://study.com/cimages/multimages/16/foil.png" alt="Math Foil Applied Image">
 
 Foil stands for:
 
