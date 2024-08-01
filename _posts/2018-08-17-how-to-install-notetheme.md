@@ -52,7 +52,7 @@ Here is the first question:
 
 Here is the solution:<img src="images/posts/maths/math.png" alt="FOIL Answer 1">
 
-Here is another question:<img src="images/posts/maths/FoilQ 2.png" alt="FOIL Question 2">
+Here is another question:<img src="images/posts/maths/FoilQ2.png" alt="FOIL Question 2">
 
 
 
