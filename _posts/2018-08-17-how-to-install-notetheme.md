@@ -45,15 +45,15 @@ Based on the image above, you should get an idea of what applying foil looks lik
 ## Examples of Foil
 Below, I'm going to solve some FOIL problems. I suggest you solving them first, and then check your work with mine!
 Here is the first question:
-<img src="file:///home/chronos/u-9cfb329ca4f459b6140b92b471154bccd4ede2a1/MyFiles/Downloads/Screenshot%202024-08-01%2012.56.39%20PM.png" alt="FOIL Question 1">
+<img src="images/posts/maths/foil.png" alt="FOIL Question 1">
 
 
 
 
-Here is the solution:<img src="file:///home/chronos/u-9cfb329ca4f459b6140b92b471154bccd4ede2a1/MyFiles/Downloads/Screenshot%202024-08-01%201.20alt" alt="FOIL Answer 1">
+Here is the solution:<img src="images/posts/maths/math.png" alt="FOIL Answer 1">
 
 Here is another question:
-<img src="images/posts/maths/foilQ2.png" alt="FOIL Question 2">
+<img src="images/posts/maths/FoilQ 2.png" alt="FOIL Question 2">
 
 
 
