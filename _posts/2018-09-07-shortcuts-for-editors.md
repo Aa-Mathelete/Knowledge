@@ -1,8 +1,7 @@
 ---
 title: Shortcuts for editors
-categories: [it]
-tags: [jekyll,notetheme]
-maths: 1
+categories: [notesTheme]
+tags: [WebsiteCode]
 toc: 1
 snippet: 1
 date: 2018-10-08

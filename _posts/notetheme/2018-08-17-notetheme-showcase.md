@@ -2,7 +2,6 @@
 title: Some showcases with NoteTheme
 categories: [notetheme]
 tags: [WebsiteCode]
-maths: 
 toc: 1
 ---
 
