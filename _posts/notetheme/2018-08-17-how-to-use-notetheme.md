@@ -1,18 +1,15 @@
 ---
-title: How to use NoteTheme
+title: Icons
 categories: [notetheme]
-tags: [jekyll,theme,notetheme]
-maths: 1
+tags: [WebsiteCode]
 toc: 1
 comment: 1
 datacamp: 1
 ---
 
-In this tutorial, I suppose that you have already [installed notetheme]({{ site.baseurl }}/how-to-install-notetheme), just follow the ones you need and don't forget to leave a comment below.
 
-{% include tip.html content="I'm not a native English speaker, please ignore my bad expressions." %}
+{% include warning.html content="Notetheme Catogory is only used for enhancing features of the website, this has no use to users." %}
 
-{% include toc.html %}
 
 ## Front Matter
 

@@ -25,9 +25,11 @@ Foil stands for:
 
 
 Ok, so this sequence is **essential** to **multiplying binomials** correctly. Now that you know what FOIL stands for let's figure out how to use it!
-{% include tip.html content=" Reminder: FOIL is used for multiplying binomials, not dividing, adding, or subtracting!" %}
 
-{% include toc.html %}
+<p class="post-more-info" markdown="1">
+ Reminder: FOIL is used for multiplying binomials, not dividing, adding, or subtracting!
+</p>
+
  
 
 ## Applying FOIL 
@@ -38,9 +40,9 @@ Based on the image above, you should get an idea of what applying foil looks lik
     Think about it!
 <img src="https://www.tastingtable.com/img/gallery/strawberry-jam-doughnut-recipe-donut/image-import.jpg" alt="Jelly Filled Donut">
 
-{% include tip.html content=" Reminder: When applying FOIL, everything must be done in relation to the paranthesis!" %}
-
-{% include toc.html %}
+<p class="post-more-info" markdown="1">
+Reminder: When applying FOIL, everything must be done in relation to the paranthesis!
+</p>
 
 ## Examples of Foil
 Below, I'm going to solve some FOIL problems. I suggest you solving them first, and then check your work with mine!
