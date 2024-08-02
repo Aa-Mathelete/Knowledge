@@ -1,12 +1,12 @@
 ---
 title: Some showcases with NoteTheme
 categories: [notetheme]
-tags: [jekyll,theme,notetheme]
-maths: 1
+tags: [WebsiteCode]
+maths: 
 toc: 1
-comment: 1
-datacamp: 1
 ---
+
+{% include warning.html content="Notetheme Catogory is only used for enhancing features of the website, this has no use to users." %}
 
 In this post, I will show you all of alread-defined components in NoteTheme so that you can use it in the fugure. If you have interests on some components, jut read **[how to make it]({{ site.baseurl }}/how-to-use-notetheme)**.
 

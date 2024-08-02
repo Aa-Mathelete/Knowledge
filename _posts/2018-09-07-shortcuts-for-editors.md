@@ -8,6 +8,8 @@ snippet: 1
 date: 2018-10-08
 ---
 
+{% include warning.html content="Notetheme Catogory is only used for enhancing features of the website, this has no use to users." %}
+
 This post is only for editors, please read other posts.
 
 {% include toc.html %}

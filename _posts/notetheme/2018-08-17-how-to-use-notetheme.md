@@ -3,8 +3,6 @@ title: Icons
 categories: [notetheme]
 tags: [WebsiteCode]
 toc: 1
-comment: 1
-datacamp: 1
 ---
 
 
