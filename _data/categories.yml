@@ -1,10 +1,18 @@
+- slug: eng
   name: Engineering
+- slug: math
   name: Mathematics General
+- slug: science
   name: Science
+- slug: projects
   name: My Projects
-  slug: Self
+- slug: algebra
   name: Algebra 1 & 2
+- slug: geometry
   name: Geometry
+- slug: competition-math
   name: Competition Math
+- slug: academics
   name: Academics
+- slug: study-tips
   name: Study Tips
