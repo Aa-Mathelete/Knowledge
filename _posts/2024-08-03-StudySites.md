@@ -15,6 +15,9 @@ my favorite websites for exceling at school
 (Don't worry they are listed by subject:).
 
 ## Writing/Reading/Language Arts
+1: [Quizlet](https://quizlet.com/latest)
+Quizlet is amazing to use in academics for memorizing terms in a short period of time.
+2: 
 
 ## Launguage
 ## Science
