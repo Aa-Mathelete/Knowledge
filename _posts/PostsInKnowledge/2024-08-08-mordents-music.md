@@ -53,4 +53,14 @@ Additionally, this website is perfect for playing classical pieces for free(Incl
 
 <a href="https://tinachristieflute.com/music-eras/baroque-era/baroque-ornamentation/#:~:text=A%20Baroque%20trill%20often%20looks,instead%20of%20the%20tr%20notation." target="_blank"> Baroque Playing Era Information</a>
 
+As I continue my journey through the vast world of music I'll write down all the new and exciting knowledge I find
 
+
+
+~ Keep on learning!![alt text](image.png)
+
+Aarushi D.
+
+
+<img src= "https://as2.ftcdn.net/v2/jpg/04/91/82/53/1000_F_491825372_ot7H9fi4NXiGgQB1cWxjYJohrwID0kTK.jpg" 
+alt=" Music!">
