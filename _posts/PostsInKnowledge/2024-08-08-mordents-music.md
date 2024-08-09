@@ -58,7 +58,7 @@ As I continue my journey through the vast world of music I'll write down all the
 
 
 ~ Keep on learning knowledge!
-<img src="images/emojis/worldlove.png" alt="Love You Emoji">
+<img src="images/Emojis/worldlove.png" alt="Love You Emoji">
 Aarushi D.
 
 
