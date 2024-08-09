@@ -57,7 +57,8 @@ As I continue my journey through the vast world of music I'll write down all the
 
 
 
-~ Keep on learning!![alt text](image.png)
+~ Keep on learning!!
+<a href="images/music/worldlove.png" target="_blank">emoji</a>
 
 Aarushi D.
 
