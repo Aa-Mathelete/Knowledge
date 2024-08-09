@@ -51,6 +51,6 @@ More Information/Tips can be found here:
 <a href="https://www.flutetunes.com/fingerings/trills.php" target="_blank"> Flute Trills</a>
 Additionally, this website is perfect for playing classical pieces for free(Includes Baroque and Romantic era pieces too!).
 
-<a href="https://tinachristieflute.com/music-eras/baroque-era/baroque-ornamentation/#:~:text=A%20Baroque%20trill%20often%20looks,instead%20of%20the%20tr%20notation." target="_blank"> Baroque Playing Information</a>
+<a href="https://tinachristieflute.com/music-eras/baroque-era/baroque-ornamentation/#:~:text=A%20Baroque%20trill%20often%20looks,instead%20of%20the%20tr%20notation." target="_blank"> Baroque Playing Era Information</a>
 
 
