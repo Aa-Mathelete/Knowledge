@@ -7,6 +7,7 @@ date: 2024-08-08
 ---
 
 So, recently I've been playing my flute music and I found this in my music: 
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Music-mordent.svg/1024px-Music-mordent.svg.png" alt="Mordent">
 
 So... let's dive in what this is in music!
