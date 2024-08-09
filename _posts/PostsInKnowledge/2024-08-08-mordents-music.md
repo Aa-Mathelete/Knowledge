@@ -39,8 +39,18 @@ First let's compare how they look like in sheet music.
 <img src= "images/music/trillvsmordents.png" 
 alt="Trills Versus Mordents">
 
-Look closely at the zig-zag for the trill. It looks similar to the one zig-zag of the mordent! However, if you remember, trills are played on the indicated note and the one above it.(I attached the trill diagrams below:)
+Look closely at the zig-zag for the trill. It looks similar to the one zig-zag of the mordent! Additionally, if you remember, trills are played on the indicated note and the one above it. (Don't Worry, I attached the trill diagrams below: ). Comparatively, the diffrent types of trills are like the mordents! If you don't know what Baroque trills are: "A Baroque trill often looks like the top notation but is performed as in the bottom notation. Baroque trills may also be indicated using a plus sign (+) instead of the tr notation"(Tina Christie Flute par 8). Below is a representation:
+<img src= "images/music/trillvsbaroque.png" 
+alt="Baroque Trill and Normal Trill">
 
 
-More Information can be found here:
-(Trill Diagrams)[https://www.flutetunes.com/fingerings/trills.php]
+
+## Extras
+More Information/Tips can be found here:
+
+<a href="https://www.flutetunes.com/fingerings/trills.php" target="_blank"> Flute Trills</a>
+Additionally, this website is perfect for playing classical pieces for free(Includes Baroque and Romantic era pieces too!).
+
+<a href="https://tinachristieflute.com/music-eras/baroque-era/baroque-ornamentation/#:~:text=A%20Baroque%20trill%20often%20looks,instead%20of%20the%20tr%20notation." target="_blank"> Baroque Playing Information</a>
+
+
