@@ -28,7 +28,7 @@ An inverted mordent is the opposite of a mordent. It includes the same rapid alt
 
 Ultimately, mordents and inverted mordents are symbols used in music notation. However, different variations have been derived from these original symbols.
 
-<img src="images/music/varinvertmord" alt="Variations of Mordents!">
+<img src="images/music/varinvertmord.png" alt="Variations of Mordents!">
 
 ## An Important Question
 While I was learning about Mordents and Inverted Mordents I was wondering: 
