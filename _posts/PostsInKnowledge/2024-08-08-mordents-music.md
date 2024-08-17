@@ -64,3 +64,13 @@ Aarushi D.
 
 <img src= "https://as2.ftcdn.net/v2/jpg/04/91/82/53/1000_F_491825372_ot7H9fi4NXiGgQB1cWxjYJohrwID0kTK.jpg" 
 alt=" Music!">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GQEDS90N4H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GQEDS90N4H');
+</script>
