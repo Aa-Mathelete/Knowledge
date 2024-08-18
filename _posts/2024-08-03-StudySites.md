@@ -17,7 +17,7 @@ my favorite websites for exceling at school
 ## Writing/Reading/Language Arts
 {% include more.html content="[Quizlet](https://quizlet.com/latest)." %}
 
-Quizlet is amazing to use in academics for memorizing terms in a short period of time.
+Quizlet is *amazing* to use in academics for memorizing terms in a short period of time. Honestly, this website has saved me in numeros subject including math(formulas), science, launguages, and more!
 
 {% include more.html content="[Cliffnotes](https://www.cliffsnotes.com/study-guides)." %}
 
