@@ -15,9 +15,13 @@ my favorite websites for exceling at school
 (Don't worry they are listed by subject:).
 
 ## Writing/Reading/Language Arts
-1: [Quizlet](https://quizlet.com/latest)
+{% include more.html content="[Quizlet](https://quizlet.com/latest)." %}
+
 Quizlet is amazing to use in academics for memorizing terms in a short period of time.
-2: 
+
+{% include more.html content="[Cliffnotes](https://www.cliffsnotes.com/study-guides)." %}
+
+Cliffnotes is one of the few websites that I suggest for **quick studying only**. For example, you have 10 minutes and want to review some key points. I encourage using this website for the numerous study guides it has.
 
 ## Launguage
 ## Science
