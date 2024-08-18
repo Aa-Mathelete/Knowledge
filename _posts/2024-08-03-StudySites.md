@@ -27,20 +27,27 @@ Cliffnotes is one of the few websites that I suggest for **quick studying only**
 To study/learn more I only use one app, Duolingo, yet for my needs it is perfect! Comment below if you know any other good websites to study!
 {% include more.html content="[Duolingo](https://www.duolingo.com/)." %}
 
-So besides using Duolingo, I like to use a online textbook any **use a AI resource to summarize, and quiz me, basically like a study buddy** (who has a Neural Network brain :). 
+Duolingo is *great for recaping lesson material, while also learning some extra*; keep in mind though that Duolingo might not cover most of your study material. So besides using Duolingo, I like to use a online textbook any **use a AI resource to summarize, and quiz me, basically like a study buddy** (who has a Neural Network brain :). 
 
 ## Science
 
-For the Science I am learning right now (*Really* Basic stuff), I don't have to do intense studying but when I have to I use Quizlet, and ocasionally, Khanacademy.
+For the Science I am learning right now (*Really* Basic stuff), I don't have to do intense studying, but when I have to study I use Quizlet, and ocasionally, Khanacademy for clarification.
 
 {% include more.html content="[Quizlet](https://quizlet.com/latest)." %}
-
-Okay, this one is obvious 
+This one is simply obvious...
 
 {% include more.html content="[Khanacademy-Science](https://www.khanacademy.org/science)." %}
 
 
 ## Math
+
+{% include more.html content="[Khanacademy](https://www.khanacademy.org/math)." %}
+Khanacademy is a grade saver. With thousands of practice problems variying from grade to subject, it is the perfect tool for studying.
+
+{% include more.html content="[Deltamath](https://www.deltamath.com/teachers-schools)." %}
+
+When using Khanacademy, I noticed that some problems lack in dificulty, so I started also using Deltamath. My school district uses Deltamath, so I have plenty experience using Deltamath Student. Yet, for practicing/studying I suggest using a Deltamath Teacher account(It's Free). Once you make one, you can assign yourself numerous topics ranging from **basic math to Calculus**. 
+
 
 
 ## Pdf/E-books/and more
