@@ -74,13 +74,14 @@ Watch this video for more practice:
 </ul>
 
 ## Double Distribution
-Let's say, you don't like how FOIL is: it feels to "robotic" to you. There is another way to multiply binomials that ties in the distributive property-not a acronyms. I named this method Double Distribution, and it's very simple. Here is an example I used it solve a question.
+Let's say, you don't like how FOIL is: it feels to "robotic" to you. There is another way to multiply binomials that ties in the distributive property-not a acronyms. I named this method Double Distribution, and it's very simple. 
+
+Here it is: <img src="images/posts/maths/Dd1E.png" alt="Double Distribution Example 1">
 
 {% include tip.html content="If you would like more examples to be included here, comment below!" %}
 
 {% include toc.html %}
 
-<img src="images/posts/maths/Dd1E.png" alt="Double Distribution Example 1">
 ---
 ## Tips/Extra Help
 For practicing FOIL/Double Distribution I suggest going to 
