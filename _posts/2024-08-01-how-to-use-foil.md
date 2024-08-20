@@ -1,15 +1,17 @@
 ---
-title: How To Use FOIL
+title: How to Multiply Binomials
 categories: Algebra 1
-tags: [Algebra, Math]
+tags: [Algebra, Math, Foil, Double Distribution, Basics To Solving Quadratics ]
 maths: 1
 comment: 1
 ---
-Hi! In this post I'm going to cover: what FOIL is in math, how to apply it, some exampes, and tips! 🤓 Have fun!
+
+Hi! In this post I'm going to cover: what FOIL is in math, how to apply it, some exampes, and tips! Along with teaching you how to multiply binomials, I'll teach you another way, which I like to call Double Distribution. 🤓 Have fun!
 
 {% include tip.html content="If you have any questions or comments please write them down below!" %}
 
 {% include toc.html %}
+Lets first start with FOIL!
  
 ## What does FOIL stand for?
 
@@ -71,9 +73,11 @@ Watch this video for more practice:
 </li>
 </ul>
 
+## Double Distribution
+Let's say, you don't like how FOIL is: it feels to "robotic" to you. There is another way to multiply binomials that ties in the distributive property-not a acronyms. I named this method Double Distribution, and it's very simple. Here is an example I used it solve a question.
 ---
 ## Tips/Extra Help
-For practicing FOIL I suggest going to 
+For practicing FOIL/Double Distribution I suggest going to 
 <a href="https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring/x2f8bb11595b61c86:multiply-binomial/e/multiply-binomials-coefficient" target="_blank">Khanacademy</a>
 there you will find extra practice and videos. Additionaly, I suggest studying with <a href="https://www.youtube.com/@TheOrganicChemistryTutor/search?query=Multiplying%20Binomials" target="_blank">The Organic Chemistry Teacher!</a> 
 
