@@ -1,6 +1,6 @@
-title: knowledge
-description: You can learn any knowledge!
-baseurl: "/knowledge"
+title: Knowledge
+description: Knowledge should be shared easily!
+baseurl: "/Knowledge"
 url: 
 repository: Aa-Mathelete/Knowledge
 paginate: 28
