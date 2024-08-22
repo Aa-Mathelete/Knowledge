@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Other Projects
-css: ["contact.css"]
+css: ["otherprojects.css"]
 comment: 1
 ---
 
