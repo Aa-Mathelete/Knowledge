@@ -72,13 +72,15 @@ Watch this video for more practice:
 </div>
 </li>
 </ul>
-
+--
+For this quiz, please type exponents like ^, multiplying like *, subraction like - , addition like + , and parenthesis normaly like ().
+--
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Quiz</title>
+    <title>Binomials Quiz</title>
     <style>
         body {
             font-family: Georgia, serif;
@@ -110,7 +112,7 @@ Watch this video for more practice:
     </script>
 </head>
 <body>
-    <h1>Results for Quiz</h1>
+    <h1>Binomials Quiz</h1>
     <form>
         <div class="question">
             <label>1. (x + 2)(x + 3) = </label>
