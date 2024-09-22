@@ -18,9 +18,10 @@ comment: 1
 ## Solving them
 ## Quiz
 --
- For this quiz, please type exponents like ^, multiplying like *, subraction like - , addition like + , and parenthesis normaly like (). 
+ For this quiz, please type exponents like ^, multiplying like *, subraction like - , addition like + , and parenthesis normally like so (). 
 
 --
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,7 +30,7 @@ comment: 1
     <title>Quadratic Equations Quiz</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Georgia, serif;
             margin: 20px;
         }
         .question {
