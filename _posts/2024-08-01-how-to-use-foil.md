@@ -78,10 +78,10 @@ Watch this video for more practice:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Multiplying Binomials Quiz</title>
+    <title>Quiz</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Georgia, serif;
             margin: 20px;
         }
         .question {
@@ -110,7 +110,7 @@ Watch this video for more practice:
     </script>
 </head>
 <body>
-    <h1>Multiplying Binomials Quiz</h1>
+    <h1>Results for Quiz</h1>
     <form>
         <div class="question">
             <label>1. (x + 2)(x + 3) = </label>
