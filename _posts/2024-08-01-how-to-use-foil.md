@@ -73,6 +73,110 @@ Watch this video for more practice:
 </li>
 </ul>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Multiplying Binomials Quiz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .question {
+            margin-bottom: 15px;
+        }
+        .answer {
+            display: none;
+            color: green;
+        }
+    </style>
+    <script>
+        function checkAnswers() {
+            for (let i = 1; i <= 10; i++) {
+                let userAnswer = document.getElementById('answer' + i).value;
+                let correctAnswer = document.getElementById('correct' + i).textContent;
+                if (userAnswer === correctAnswer) {
+                    document.getElementById('result' + i).textContent = 'Correct!';
+                    document.getElementById('result' + i).style.color = 'green';
+                } else {
+                    document.getElementById('result' + i).textContent = 'Incorrect. The correct answer is ' + correctAnswer;
+                    document.getElementById('result' + i).style.color = 'red';
+                }
+                document.getElementById('correct' + i).style.display = 'inline';
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Multiplying Binomials Quiz</h1>
+    <form>
+        <div class="question">
+            <label>1. (x + 2)(x + 3) = </label>
+            <input type="text" id="answer1">
+            <span class="answer" id="correct1">x^2 + 5x + 6</span>
+            <span id="result1"></span>
+        </div>
+        <div class="question">
+            <label>2. (x - 4)(x + 5) = </label>
+            <input type="text" id="answer2">
+            <span class="answer" id="correct2">x^2 + x - 20</span>
+            <span id="result2"></span>
+        </div>
+        <div class="question">
+            <label>3. (2x + 3)(x - 1) = </label>
+            <input type="text" id="answer3">
+            <span class="answer" id="correct3">2x^2 + x - 3</span>
+            <span id="result3"></span>
+        </div>
+        <div class="question">
+            <label>4. (x - 2)(x - 3) = </label>
+            <input type="text" id="answer4">
+            <span class="answer" id="correct4">x^2 - 5x + 6</span>
+            <span id="result4"></span>
+        </div>
+        <div class="question">
+            <label>5. (3x + 2)(x + 4) = </label>
+            <input type="text" id="answer5">
+            <span class="answer" id="correct5">3x^2 + 14x + 8</span>
+            <span id="result5"></span>
+        </div>
+        <div class="question">
+            <label>6. (x + 1)(x - 1) = </label>
+            <input type="text" id="answer6">
+            <span class="answer" id="correct6">x^2 - 1</span>
+            <span id="result6"></span>
+        </div>
+        <div class="question">
+            <label>7. (2x - 3)(x + 2) = </label>
+            <input type="text" id="answer7">
+            <span class="answer" id="correct7">2x^2 + x - 6</span>
+            <span id="result7"></span>
+        </div>
+        <div class="question">
+            <label>8. (x + 5)(x + 6) = </label>
+            <input type="text" id="answer8">
+            <span class="answer" id="correct8">x^2 + 11x + 30</span>
+            <span id="result8"></span>
+        </div>
+        <div class="question">
+            <label>9. (x - 7)(x + 3) = </label>
+            <input type="text" id="answer9">
+            <span class="answer" id="correct9">x^2 - 4x - 21</span>
+            <span id="result9"></span>
+        </div>
+        <div class="question">
+            <label>10. (2x + 1)(x - 4) = </label>
+            <input type="text" id="answer10">
+            <span class="answer" id="correct10">2x^2 - 7x - 4</span>
+            <span id="result10"></span>
+        </div>
+        <button type="button" onclick="checkAnswers()">Check Answers</button>
+    </form>
+</body>
+</html>
+
 ## Double Distribution
 Let's say, you don't like how FOIL is: it feels to "robotic" to you. There is another way to multiply binomials that ties in the distributive property-not a acronyms. I named this method Double Distribution, and it's very simple. 
 
