@@ -23,6 +23,22 @@ Quadratic Formula
 </ul>
 --
 
+--
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+<div class="collapsible-header" markdown="1"><i class="material-icons">face</i>
+Standard Form of a Quadratic Equation
+</div>
+<div class="collapsible-body" markdown="1">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxbxL2epChjq84ozDdJxQoWdnwcGhmKgeARg&s" alt="Standard Form">
+
+</div>
+</li>
+</ul>
+--
+
+
 ## Solving them
 ## Quiz
 --
