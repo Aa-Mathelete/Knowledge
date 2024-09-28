@@ -1,8 +1,8 @@
 ---
-title: Some showcases with NoteTheme
-categories: [notetheme]
-tags: [WebsiteCode]
-toc: 1
+title: Notetheme
+categories: [Website]
+tags:[Website]
+date: 2024-09-21
 ---
 
 {% include warning.html content="Notetheme Catogory is only used for enhancing features of the website, this has no use to users." %}
