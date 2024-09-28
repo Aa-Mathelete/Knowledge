@@ -4,11 +4,12 @@ categories: [Academics, Math]
 tags: [Math, Academics]
 toc: 1
 snippet: 1
+comment: 1
 date: 2024-09-28
 ---
 <fieldset class="field-set" markdown="1">
 <legend class="leg-title">Creation</legend>
-I made this slideshow in 7th Grade, so if you catch any mistakes please comment below or just ignore them. Additionally, I hadn't cited  all my sources (Images, Videos,etc.) so I included I acknowledged it below! Thanks so much, and keep on learning! 
+I made this slideshow in 7th Grade, so if you catch any mistakes please comment below or just ignore them. Additionally, I hadn't cited  all my sources (Images, Videos,etc.) so  I acknowledged it below! Thanks so much, and keep on learning! 
 </fieldset>
 
 <div  class="thi-step">
