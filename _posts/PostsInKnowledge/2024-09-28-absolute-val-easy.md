@@ -8,20 +8,37 @@ date: 2024-09-28
 comment: 1
 ---
 
-<div class="thi-box" markdown="1">
-<div class="box-title" markdown="1">
-**Refresh On Absolute Value**
+
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+<div class="collapsible-header" markdown="1"><i class="material-icons">face</i>
+** Refresh On Absolute Value **
 </div>
-<div class="box-content" markdown="1">
+<div class="collapsible-body" markdown="1">
 Absolute Value is the distance from zero a number has; Absoulute Value bars look like this ||.  If you have a number inside them, then that numeber, no matter if it is negative, turns positive. Here is an example:  |6| = 6,  |-6| = 6. If there is a *negative sign outside* then the result is negative. Here is what I mean:  -|300| = -300. Once you solve inside the bars, then the negative is attached.
 
 <img src="https://mathbitsnotebook.com/Algebra2/AbsoluteValue/AbsGraphRB.jpg" alt="Number Line Example">
-
 </div>
-</div>
+</li>
+</ul>
 
 ## How to solve Absolute Value equations
 
+To solve an absolute value equation you have to break it into 2 parts, one side equaling a negative, and other positive. Doing this gets rid of the absolute value bars.
 
+<div class="thi-box" markdown="1">
+<div class="box-title" markdown="1">
+Example 1
+</div>
+<div class="box-content" markdown="1">
+|2x-4|=20
 
+First we will solve positive twenty, then negative twenty.
+2x-4=20
+ +4 on both sides
+2x=20
+Divide by 2 on both sides
+x=10
 
+</div>
+</div>
