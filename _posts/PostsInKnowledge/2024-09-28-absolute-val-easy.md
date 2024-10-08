@@ -34,14 +34,14 @@ Example 1
 </div>
 </div>
 
-    $$
+    $
     First we will solve positive twenty, then negative twenty.
     2x-4=20
      +4 on both sides
     2x=20
     Divide by 2 on both sides
     x=10
-    $$
+    $
 
 <p class="post-more-info" markdown="1">
 If you have any questions remember to comment them below!
@@ -49,7 +49,7 @@ If you have any questions remember to comment them below!
 
 Now let's solve for -20
 
-    $$
+    $
 
     2x-4=-20
 
@@ -61,7 +61,7 @@ Now let's solve for -20
     Divide by 2 on both sides
 
     x=-8
-    $$
+    $
 
 Finally, we solved **both** for negative and positive our answers are: x=-8 and x=10. 
 
