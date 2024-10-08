@@ -12,7 +12,7 @@ comment: 1
 <ul class="collapsible" data-collapsible="accordion">
 <li>
 <div class="collapsible-header" markdown="1"><i class="material-icons">face</i>
-** Refresh On Absolute Value **
+Refresh On Absolute Value
 </div>
 <div class="collapsible-body" markdown="1">
 Absolute Value is the distance from zero a number has; Absoulute Value bars look like this ||.  If you have a number inside them, then that numeber, no matter if it is negative, turns positive. Here is an example:  |6| = 6,  |-6| = 6. If there is a *negative sign outside* then the result is negative. Here is what I mean:  -|300| = -300. Once you solve inside the bars, then the negative is attached.
