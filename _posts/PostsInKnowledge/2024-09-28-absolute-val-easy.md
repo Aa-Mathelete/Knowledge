@@ -67,6 +67,8 @@ Finally, we solved **both** for negative and positive our answers are: x=-8 and 
 
 Try practicing more questions below!
 
+## Practice Problems
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
