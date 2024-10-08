@@ -31,6 +31,10 @@ Example 1
 </div>
 <div class="box-content" markdown="1">
 |2x-4|=20
+</div>
+</div>
+
+$$
 
 First we will solve positive twenty, then negative twenty.
 2x-4=20
@@ -39,5 +43,28 @@ First we will solve positive twenty, then negative twenty.
 Divide by 2 on both sides
 x=10
 
-</div>
-</div>
+$$
+
+<p class="post-more-info" markdown="1">
+If you have any questions remember to comment them below!
+</p>
+
+Now let's solve for -20
+
+$$
+
+2x-4=-20
+
++4     +4 
+Add 4 on both sides
+
+2x=-16
+2/2x=-16/2
+Divide by 2 on both sides
+
+x=-8
+$$
+
+Finally, we solved **both** for negative and positive our answers are: x=-8 and x=10. 
+
+Try practicing more questions below!
