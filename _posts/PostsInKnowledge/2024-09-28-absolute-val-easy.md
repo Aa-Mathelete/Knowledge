@@ -68,8 +68,8 @@ Finally, we solved **both** for negative and positive our answers are: x=-8 and 
 Try practicing more questions below!
 
 ## Practice Problems
+Format: Add one of the answers.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
