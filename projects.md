@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Projects/Goals
-css: ["otherprojects.css"]
+css: ["projects.css"]
 comment: 1
 ---
 
