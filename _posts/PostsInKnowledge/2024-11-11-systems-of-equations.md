@@ -1,8 +1,10 @@
 ---
 title: Systems of equations
+categories: [Algebra 1]
 tags: [Algebra 1, Math]
+toc: 1
 comment: 1
-snippet: 1
+date: 2024-11-11
 ---
 
 ## Into
