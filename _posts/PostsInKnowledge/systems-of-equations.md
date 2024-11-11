@@ -1,8 +1,8 @@
 ---
 title: Systems of equations
 tags: [Algebra 1, Math]
-date: 2024-11-1
 comment: 1
+snippet: 1
 ---
 
 ## Into
