@@ -1,5 +1,5 @@
 ---
-title: (Butterfly Nocturne) My First composition!
+title: (Butterfly Impromptus) My First composition!
 categories: [My Projects]
 tags: [Music, Flute]
 toc: 1
