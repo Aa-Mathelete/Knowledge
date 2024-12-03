@@ -4,13 +4,16 @@ categories: [Algebra 1]
 tags: [Algebra 1, Math]
 toc: 1
 comment: 1
+maths: 1
 date: 2024-11-11
 ---
 
 ## Into
-Most highschoolers struggle with systems of equations, so it's importaunt to get this concept right! There are two ways to solve systems and with practice you will know which to use and when!
+Most highschoolers struggle with systems of equations, so it's important to get this concept right! There are two ways to solve systems and with practice you will know which to use and when!
 
 ## Substitution
+Using Substitution you rewrite the equation in terms of 'y', then plug it in to the other equation. Here is an example: 
+
 ## Elimination
 ## Practice Quiz
 ---
