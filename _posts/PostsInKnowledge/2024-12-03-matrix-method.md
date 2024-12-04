@@ -15,6 +15,7 @@ Based on what I think are important to note down in most classes, I invented a w
 
 ## Put Together
 Here is how it looks! 
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+
+<img src="<img src="images/posts/matrixmethod.png" alt="Visual">" 
 
 {% include more.html content="[View It On Google Docs!](https://docs.google.com/document/d/1Mvww6i6QfEiWTq8pyz8tJ9O9s0BROetVsJ6ng6ETP58/edit?usp=sharing)." %}
