@@ -12,7 +12,15 @@ date: 2024-11-11
 Most highschoolers struggle with systems of equations, so it's important to get this concept right! There are two ways to solve systems and with practice you will know which to use and when!
 
 ## Substitution
-Using Substitution you rewrite the equation in terms of 'y', then plug it in to the other equation. Here is an example: 
+In Substitution you rewrite the equation in terms of 'y', then plug it in to the other equation.
+<div class="thi-columns" markdown="1">
+- Rewrite Equation in terms of 'y'
+- Plug in and Solve
+- Find Value and plug into a equation
+- Solve for other value
+- Check by pluging in the other equation
+- Write as an ordered pair (x,y)
+</div> 
 
 ## Elimination
 ## Practice Quiz
