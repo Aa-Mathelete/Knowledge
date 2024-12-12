@@ -21,11 +21,22 @@ In Substitution you rewrite the equation in terms of 'y', then plug it in to the
 - Check by pluging in the other equation
 - Write as an ordered pair (x,y)
 </div> 
-
+  
 ## Elimination
+The elimation tactic to solving systems is similar to the substitution method. In elimination you make a common element in both equations--usually by distribution--then you use it cancel the other out. Recall when solving equations that to move a term you have to preform the opposite opperation. If it's negative, add the positive version of term to both sides; if it's being divided *(like fractions)* multiply by it's reciprocal (or just by the number). Elimination is when you use this strategy of canceling terms. Here is an example: 
+<img src="images/math/es.png" alt="Elimination Example" />
+First identify what steps you have to take:
+<div class="thi-columns" markdown="1">
+- Rewrite the equation
+- Distribute to remove the 'x' term
+- Solve for 'y'
+- Plug in 'y' and solve for 'x'
+- Check by pluging in 'y' and 'x' into a equation you have not used (This is to check if you solved correctly)
+</div>
+
+
 ## Practice Quiz
 ---
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
