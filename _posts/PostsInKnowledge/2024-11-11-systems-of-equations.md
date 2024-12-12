@@ -11,7 +11,7 @@ date: 2024-11-11
 ## Into
 Most highschoolers struggle with systems of equations, so it's important to get this concept right! There are two ways to solve systems and with practice you will know which to use and when!
 ## Workspace
-*If you have  touchscreen you can use the slide show below as a place to solve questions*
+*If you have  touchscreen you can use the slide show below as a place to solve questions. Click the three dots near the slide numbe, and then click on 'Turn on pen'*
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbp21nEeTGf5ITGESA5jgUB1IhRq1mLtDb8vG1xT13Hjrs3ofsAJABQ5w139oTYDn0C0Ic3SDurIII/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ## Substitution
 In Substitution you rewrite the equation in terms of 'y', then plug it in to the other equation.
@@ -36,7 +36,7 @@ First identify what steps you have to take:
 - Check by pluging in 'y' and 'x' into a equation you have not used (This is to check if you solved correctly)
 </div>
 
-
+<img src="images/math/ee.png" alt="Elimination" />
 ## Practice Quiz
 ---
 <html lang="en">
@@ -151,3 +151,18 @@ First identify what steps you have to take:
     </script>
 </body>
 </html>
+
+## Extra Help
+Visit these links for extra help:
+
+{% include more.html content="[Khanacademy](https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:solving-systems-elimination/a/elimination-method-review)." %}
+
+{% include more.html content="[Elimination](https://www.youtube.com/watch?v=HL2fDIOMLJ0)." %}
+
+{% include more.html content="[Substitution](https://www.youtube.com/watch?v=cblHUeq3bkE&t=0s)." %}
+
+{% include more.html content="[Solutions](https://youtu.be/bq5gDsEdN3Q?si=rNYFx7ovI_uBZQzU)." %}
+
+
+Thanks so much and keep on learning, 
+Aarushi D.
