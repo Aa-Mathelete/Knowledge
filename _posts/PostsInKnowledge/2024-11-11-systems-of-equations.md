@@ -10,7 +10,9 @@ date: 2024-11-11
 
 ## Into
 Most highschoolers struggle with systems of equations, so it's important to get this concept right! There are two ways to solve systems and with practice you will know which to use and when!
-
+## Workspace
+*If you have  touchscreen you can use the slide show below as a place to solve questions*
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbp21nEeTGf5ITGESA5jgUB1IhRq1mLtDb8vG1xT13Hjrs3ofsAJABQ5w139oTYDn0C0Ic3SDurIII/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 ## Substitution
 In Substitution you rewrite the equation in terms of 'y', then plug it in to the other equation.
 <div class="thi-columns" markdown="1">
