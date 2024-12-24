@@ -7,10 +7,6 @@ comment: 1
 <i class="material-icons mat-icon">info</i>
 All the content in this post is based on my experience, if you have any suggestions/comments write them down below. Remember, Knowledge™ is a community of students and learners, we all are in this together!
 </p>
-<fieldset class="field-set" markdown="1">
-<legend class="leg-title">TL;DR</legend>
----
-</fieldset>
 
 *You're drowning...again*
 
