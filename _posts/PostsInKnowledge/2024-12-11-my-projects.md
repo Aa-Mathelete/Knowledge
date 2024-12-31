@@ -20,22 +20,23 @@ Here is where I post my other projects or goals when completed!
 ## My Duolingo Progress!
 
 I'm learning Chinese for fun, Spanish for school, and Hindi for home!
-[Duolingo,](https://invite.duolingo.com/BDHTZTB5CWWKSMYDQXCLKSYOJM) and 
+[Duolingo,](https://invite.duolingo.com/BDHTZTB5CWWKSMYDQXCLKSYOJM) 
 
 ## Music
 Another one of my goal/projects is to improve on my music playing (I play the flute) and learn/play more classical music!
 
 [Tonic](https://tonicmusic.app.link/rcYoWLitILb)
-
-## My Research Paper
+##My Research Paper
 
  ***This Goal is still in progresss! Check back later to see if it is completed!***
- ## Trigonometry
+ ##Trigonometry
  
+***This Goal is still in progresss! Check back later to see if it is completed!***
+
+##Calculus
 ***This Goal is still in progresss! Check back later to see if it is completed!***
 
 
 ## Eco-Can
 
  ***This Goal is still in progresss! Check back later to see if it is completed!***
-[Here is the progress!](https://docs.google.com/document/d/1HgOnnC-YvnVPM2IqWmzF-k8_CUuxuxEWaPiKskbT19A/edit?usp=sharing)
